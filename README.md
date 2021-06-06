@@ -1,8 +1,6 @@
 ![Shiung's Banner](assets/hhs-banner-2021-04.png)
 
-# 👨‍💻👨‍🔬
-
-## Summary
+# Summary 👨‍💻👨‍🔬
 
 包山包海 software engineer, currently most experienced in developing Windows desktop applications, setting up embedded devices and PCs, meshing various communication interfaces, and managing Linux-based production web servers.
 
@@ -17,6 +15,4 @@ To know more about me professionally, [check out my LinkedIn!](https://www.linke
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hh-shiung&theme=synthwave)](https://github.com/hh-shiung/github-readme-stats)
 
-## Hobbies
-
-# 🚴⛰️🏸🎮📚
+# Hobbies 🚴⛰️🏸🎮📚
