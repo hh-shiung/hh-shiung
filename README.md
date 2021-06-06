@@ -4,7 +4,7 @@
 
 包山包海 software engineer, currently most experienced in developing Windows desktop applications, setting up embedded devices and PCs, meshing various communication interfaces, and managing Linux-based production web servers.
 
-我是个 full-stack 程序员，做工目标是呈现通融的软件服务。目前专注在电脑桌面应用，但也略懂嵌入式设备编程、机器通讯接口协议、及生产线服务及管理。
+Full-stack 程序员，做工目标是呈现通融的软件服务。目前专注在电脑桌面应用，但也略懂嵌入式设备编程、机器通讯接口协议、及生产线服务及管理。
 
 To know more about me professionally, [check out my LinkedIn!](https://www.linkedin.com/in/hwanghsienshiung/) ~`(ﾟ∀ﾟ)`
 
