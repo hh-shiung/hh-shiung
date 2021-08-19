@@ -1,5 +1,3 @@
-![Shiung's Banner](assets/hhs-banner-2021-06.png)
-
 # Summary 👨‍💻👨‍🔬
 
 包山包海 software engineer, most of my experience has been at developing Windows desktop applications, setting up industrial IoT systems with embedded devices and PCs, meshing communication interfaces of various systems together, and managing Linux-based production web servers.
